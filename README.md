@@ -23,5 +23,9 @@
 </p>
 
 <p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=DongyeonSeoDev&theme=algolia&date_format=%5BY.%5Dn.j"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongyeonSeoDev&layout=compact&langs_count=10"/>
 </p>
