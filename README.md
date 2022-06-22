@@ -13,6 +13,8 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongyeonSeoDev%2Fhit-counter&count_bg=%233DC8A9&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>  
 </p>
 
+<br>
+
 <h1 align = "center">💻Github Stats💻</h1>
 
 ![Dongyeon Seo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DongyeonSeoDev&show_icons=true&theme=radical&title_color=00ffff&text_color=ffffff&count_private=true)
